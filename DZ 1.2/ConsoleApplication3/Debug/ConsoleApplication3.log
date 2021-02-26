@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication3.cpp
+c:\users\1\desktop\аип\consoleapplication3\consoleapplication3\consoleapplication3.cpp(5): warning C4305: инициализация: усечение из "double" в "float"
+  ConsoleApplication3.vcxproj -> C:\Users\1\Desktop\АиП\ConsoleApplication3\Debug\ConsoleApplication3.exe
