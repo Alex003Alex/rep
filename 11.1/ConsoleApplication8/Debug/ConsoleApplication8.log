@@ -1,0 +1,4 @@
+﻿  ConsoleApplication8.cpp
+c:\users\1\desktop\аип\consoleapplication8\consoleapplication8\consoleapplication8.cpp(17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\1\desktop\аип\consoleapplication8\consoleapplication8\consoleapplication8.cpp(31): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication8.vcxproj -> C:\Users\1\Desktop\АиП\ConsoleApplication8\Debug\ConsoleApplication8.exe

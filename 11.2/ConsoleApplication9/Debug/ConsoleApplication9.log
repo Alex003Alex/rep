@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  ConsoleApplication9.cpp
+c:\users\1\desktop\аип\11.2\consoleapplication9\consoleapplication9.cpp(42): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\1\desktop\аип\11.2\consoleapplication9\consoleapplication9.cpp(43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\1\desktop\аип\11.2\consoleapplication9\consoleapplication9.cpp(44): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication9.vcxproj -> C:\Users\1\Desktop\АиП\11.2\Debug\ConsoleApplication9.exe
