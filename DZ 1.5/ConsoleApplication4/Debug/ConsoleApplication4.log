@@ -1,0 +1,8 @@
+﻿  ConsoleApplication4.cpp
+c:\users\1\desktop\аип\dz 1.5\consoleapplication4\consoleapplication4.cpp(24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\1\desktop\аип\dz 1.5\consoleapplication4\consoleapplication4.cpp(26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\1\desktop\аип\dz 1.5\consoleapplication4\consoleapplication4.cpp(28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\1\desktop\аип\dz 1.5\consoleapplication4\consoleapplication4.cpp(30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\1\desktop\аип\dz 1.5\consoleapplication4\consoleapplication4.cpp(32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\1\desktop\аип\dz 1.5\consoleapplication4\consoleapplication4.cpp(34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication4.vcxproj -> C:\Users\1\Desktop\АиП\DZ 1.5\Debug\ConsoleApplication4.exe
