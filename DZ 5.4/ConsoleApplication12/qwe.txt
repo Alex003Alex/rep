@@ -1,0 +1,2 @@
+chet = 34
+nechet = 12
