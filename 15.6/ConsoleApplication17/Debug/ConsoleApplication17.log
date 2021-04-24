@@ -1,0 +1,4 @@
+﻿  ConsoleApplication17.cpp
+c:\users\1\desktop\аип\consoleapplication17\consoleapplication17\consoleapplication17.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\1\desktop\аип\consoleapplication17\consoleapplication17\consoleapplication17.cpp(26): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  ConsoleApplication17.vcxproj -> C:\Users\1\Desktop\АиП\ConsoleApplication17\Debug\ConsoleApplication17.exe
